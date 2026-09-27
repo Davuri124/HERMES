@@ -1,0 +1,321 @@
+model,verse_id,language,context,rating,pred_text
+Hermes H5 (Ours),urdu_0000,urdu,grief,3.3648037647335785,Ironic dismissal of paradise as consolation prize for a life of unmet desire.
+Template baseline,urdu_0000,urdu,grief,3.836465458749262,The speaker mourns desires that consume the very life that births them — a medit
+Random interpretation,urdu_0000,urdu,grief,2.631988989571198,Political reading: each suppressed aspiration under colonial rule breathes its l
+No-observer T5,urdu_0000,urdu,grief,2.76909073682245,Political reading: each suppressed aspiration under colonial rule breathes its l
+Hermes H5 (Ours),urdu_0000,urdu,spiritual,3.2498372875901613,The speaker mourns desires that consume the very life that births them — a medit
+Template baseline,urdu_0000,urdu,spiritual,3.7230030366491507,The beloved is so unattainable that each wish for union becomes an act of dying 
+Random interpretation,urdu_0000,urdu,spiritual,2.9184076031156394,The speaker mourns desires that consume the very life that births them — a medit
+No-observer T5,urdu_0000,urdu,spiritual,2.535002348934597,Political reading: each suppressed aspiration under colonial rule breathes its l
+Hermes H5 (Ours),urdu_0000,urdu,political,4.163340024669374,Political reading: each suppressed aspiration under colonial rule breathes its l
+Template baseline,urdu_0000,urdu,political,3.883378768897611,Political reading: each suppressed aspiration under colonial rule breathes its l
+Random interpretation,urdu_0000,urdu,political,2.6818910119325357,The speaker mourns desires that consume the very life that births them — a medit
+No-observer T5,urdu_0000,urdu,political,3.768986839485609,Political reading: each suppressed aspiration under colonial rule breathes its l
+Hermes H5 (Ours),urdu_0000,urdu,romantic,3.1801800144238657,The beloved is so unattainable that each wish for union becomes an act of dying 
+Template baseline,urdu_0000,urdu,romantic,3.674659813896838,The speaker mourns desires that consume the very life that births them — a medit
+Random interpretation,urdu_0000,urdu,romantic,2.9011137738074813,Political reading: each suppressed aspiration under colonial rule breathes its l
+No-observer T5,urdu_0000,urdu,romantic,2.5723229832829277,Political reading: each suppressed aspiration under colonial rule breathes its l
+Hermes H5 (Ours),urdu_0001,urdu,grief,4.247723899111483,Ironic dismissal of paradise as consolation prize for a life of unmet desire.
+Template baseline,urdu_0001,urdu,grief,3.8620471847423556,Ironic dismissal of paradise as consolation prize for a life of unmet desire.
+Random interpretation,urdu_0001,urdu,grief,2.636001148412405,"Sufi reinterpretation: true paradise is annihilation in the beloved, not celesti"
+No-observer T5,urdu_0001,urdu,grief,2.802635845034013,"Rationalist reading: the speaker rejects religious promise in favor of earthly, "
+Hermes H5 (Ours),urdu_0001,urdu,spiritual,3.0418496076820447,Ironic dismissal of paradise as consolation prize for a life of unmet desire.
+Template baseline,urdu_0001,urdu,spiritual,4.008656371258391,"Sufi reinterpretation: true paradise is annihilation in the beloved, not celesti"
+Random interpretation,urdu_0001,urdu,spiritual,2.6074769930473183,Ironic dismissal of paradise as consolation prize for a life of unmet desire.
+No-observer T5,urdu_0001,urdu,spiritual,2.683199161603731,"Rationalist reading: the speaker rejects religious promise in favor of earthly, "
+Hermes H5 (Ours),urdu_0001,urdu,political,4.016366248746663,"Rationalist reading: the speaker rejects religious promise in favor of earthly, "
+Template baseline,urdu_0001,urdu,political,3.596345190969867,"Rationalist reading: the speaker rejects religious promise in favor of earthly, "
+Random interpretation,urdu_0001,urdu,political,3.0303525005092453,Ironic dismissal of paradise as consolation prize for a life of unmet desire.
+No-observer T5,urdu_0001,urdu,political,3.8814162010868842,"Rationalist reading: the speaker rejects religious promise in favor of earthly, "
+Hermes H5 (Ours),urdu_0001,urdu,romantic,3.199338447448832,"Sufi reinterpretation: true paradise is annihilation in the beloved, not celesti"
+Template baseline,urdu_0001,urdu,romantic,3.7015134554979614,Ironic dismissal of paradise as consolation prize for a life of unmet desire.
+Random interpretation,urdu_0001,urdu,romantic,3.936141771657015,Ironic dismissal of paradise as consolation prize for a life of unmet desire.
+No-observer T5,urdu_0001,urdu,romantic,2.668036840971783,"Rationalist reading: the speaker rejects religious promise in favor of earthly, "
+Hermes H5 (Ours),urdu_0002,urdu,grief,3.3039792863563435,Ironic dismissal of paradise as consolation prize for a life of unmet desire.
+Template baseline,urdu_0002,urdu,grief,3.6691233085091546,The heart interrogated for its inexplicable pain — self-inquiry as grief.
+Random interpretation,urdu_0002,urdu,grief,2.840079058456137,Spiritual: the soul questioning its own restlessness before God.
+No-observer T5,urdu_0002,urdu,grief,2.880734439559839,Political reading: each suppressed aspiration under colonial rule breathes its l
+Hermes H5 (Ours),urdu_0002,urdu,spiritual,3.5279438090033874,The heart interrogated for its inexplicable pain — self-inquiry as grief.
+Template baseline,urdu_0002,urdu,spiritual,3.889620940084514,The naive heart chastised for surrendering to love without defense.
+Random interpretation,urdu_0002,urdu,spiritual,2.840918590016503,The heart interrogated for its inexplicable pain — self-inquiry as grief.
+No-observer T5,urdu_0002,urdu,spiritual,2.6545537133285264,Political reading: each suppressed aspiration under colonial rule breathes its l
+Hermes H5 (Ours),urdu_0002,urdu,political,4.2235348111797775,Spiritual: the soul questioning its own restlessness before God.
+Template baseline,urdu_0002,urdu,political,3.672607855713486,Spiritual: the soul questioning its own restlessness before God.
+Random interpretation,urdu_0002,urdu,political,4.005644414019394,Spiritual: the soul questioning its own restlessness before God.
+No-observer T5,urdu_0002,urdu,political,2.527619239785791,Political reading: each suppressed aspiration under colonial rule breathes its l
+Hermes H5 (Ours),urdu_0002,urdu,romantic,3.096050641281794,The beloved is so unattainable that each wish for union becomes an act of dying 
+Template baseline,urdu_0002,urdu,romantic,3.723565024569525,The heart interrogated for its inexplicable pain — self-inquiry as grief.
+Random interpretation,urdu_0002,urdu,romantic,2.510163664021723,Spiritual: the soul questioning its own restlessness before God.
+No-observer T5,urdu_0002,urdu,romantic,2.557557712106722,Political reading: each suppressed aspiration under colonial rule breathes its l
+Hermes H5 (Ours),urdu_0003,urdu,grief,3.2897452017963693,Ironic dismissal of paradise as consolation prize for a life of unmet desire.
+Template baseline,urdu_0003,urdu,grief,3.8045425454829442,The speaker mourns desires that consume the very life that births them — a medit
+Random interpretation,urdu_0003,urdu,grief,2.9609990373777855,Political reading: each suppressed aspiration under colonial rule breathes its l
+No-observer T5,urdu_0003,urdu,grief,2.956812600954073,Political reading: each suppressed aspiration under colonial rule breathes its l
+Hermes H5 (Ours),urdu_0003,urdu,spiritual,3.2658048503933,The speaker mourns desires that consume the very life that births them — a medit
+Template baseline,urdu_0003,urdu,spiritual,3.8469857373501064,The beloved is so unattainable that each wish for union becomes an act of dying 
+Random interpretation,urdu_0003,urdu,spiritual,2.8107375598895428,The speaker mourns desires that consume the very life that births them — a medit
+No-observer T5,urdu_0003,urdu,spiritual,2.346454748454955,Political reading: each suppressed aspiration under colonial rule breathes its l
+Hermes H5 (Ours),urdu_0003,urdu,political,3.990816073001089,Political reading: each suppressed aspiration under colonial rule breathes its l
+Template baseline,urdu_0003,urdu,political,3.81510132546484,Political reading: each suppressed aspiration under colonial rule breathes its l
+Random interpretation,urdu_0003,urdu,political,3.8924038563121504,Political reading: each suppressed aspiration under colonial rule breathes its l
+No-observer T5,urdu_0003,urdu,political,3.843450471820721,Political reading: each suppressed aspiration under colonial rule breathes its l
+Hermes H5 (Ours),urdu_0003,urdu,romantic,3.0669781484453593,The beloved is so unattainable that each wish for union becomes an act of dying 
+Template baseline,urdu_0003,urdu,romantic,3.9406109423704243,The speaker mourns desires that consume the very life that births them — a medit
+Random interpretation,urdu_0003,urdu,romantic,3.0232144979159035,The beloved is so unattainable that each wish for union becomes an act of dying 
+No-observer T5,urdu_0003,urdu,romantic,2.865727074115051,Political reading: each suppressed aspiration under colonial rule breathes its l
+Hermes H5 (Ours),urdu_0004,urdu,grief,4.348439899438571,Ironic dismissal of paradise as consolation prize for a life of unmet desire.
+Template baseline,urdu_0004,urdu,grief,3.7161161303067183,Ironic dismissal of paradise as consolation prize for a life of unmet desire.
+Random interpretation,urdu_0004,urdu,grief,3.9613901184051197,Ironic dismissal of paradise as consolation prize for a life of unmet desire.
+No-observer T5,urdu_0004,urdu,grief,2.81353400277605,"Rationalist reading: the speaker rejects religious promise in favor of earthly, "
+Hermes H5 (Ours),urdu_0004,urdu,spiritual,3.2550277628720505,Ironic dismissal of paradise as consolation prize for a life of unmet desire.
+Template baseline,urdu_0004,urdu,spiritual,3.8548147764237064,"Sufi reinterpretation: true paradise is annihilation in the beloved, not celesti"
+Random interpretation,urdu_0004,urdu,spiritual,2.7600713677776882,Ironic dismissal of paradise as consolation prize for a life of unmet desire.
+No-observer T5,urdu_0004,urdu,spiritual,2.65228335447018,"Rationalist reading: the speaker rejects religious promise in favor of earthly, "
+Hermes H5 (Ours),urdu_0004,urdu,political,4.187679500466893,"Rationalist reading: the speaker rejects religious promise in favor of earthly, "
+Template baseline,urdu_0004,urdu,political,3.948014242622423,"Rationalist reading: the speaker rejects religious promise in favor of earthly, "
+Random interpretation,urdu_0004,urdu,political,2.725448836079965,Ironic dismissal of paradise as consolation prize for a life of unmet desire.
+No-observer T5,urdu_0004,urdu,political,3.9340020893912215,"Rationalist reading: the speaker rejects religious promise in favor of earthly, "
+Hermes H5 (Ours),urdu_0004,urdu,romantic,3.2888550341864007,"Sufi reinterpretation: true paradise is annihilation in the beloved, not celesti"
+Template baseline,urdu_0004,urdu,romantic,3.7551593904470253,Ironic dismissal of paradise as consolation prize for a life of unmet desire.
+Random interpretation,urdu_0004,urdu,romantic,4.008320015542936,Ironic dismissal of paradise as consolation prize for a life of unmet desire.
+No-observer T5,urdu_0004,urdu,romantic,2.7383382061982955,"Rationalist reading: the speaker rejects religious promise in favor of earthly, "
+Hermes H5 (Ours),urdu_0005,urdu,grief,3.4113654215987226,Ironic dismissal of paradise as consolation prize for a life of unmet desire.
+Template baseline,urdu_0005,urdu,grief,3.8651190472311456,The heart interrogated for its inexplicable pain — self-inquiry as grief.
+Random interpretation,urdu_0005,urdu,grief,3.797620112231973,The heart interrogated for its inexplicable pain — self-inquiry as grief.
+No-observer T5,urdu_0005,urdu,grief,2.633821874591503,Political reading: each suppressed aspiration under colonial rule breathes its l
+Hermes H5 (Ours),urdu_0005,urdu,spiritual,3.3851306728597663,The heart interrogated for its inexplicable pain — self-inquiry as grief.
+Template baseline,urdu_0005,urdu,spiritual,3.7694360729758367,The naive heart chastised for surrendering to love without defense.
+Random interpretation,urdu_0005,urdu,spiritual,2.6515264303903363,Spiritual: the soul questioning its own restlessness before God.
+No-observer T5,urdu_0005,urdu,spiritual,2.6889204297793006,Political reading: each suppressed aspiration under colonial rule breathes its l
+Hermes H5 (Ours),urdu_0005,urdu,political,4.079429522985437,Spiritual: the soul questioning its own restlessness before God.
+Template baseline,urdu_0005,urdu,political,3.887898765346817,Spiritual: the soul questioning its own restlessness before God.
+Random interpretation,urdu_0005,urdu,political,3.9959420713592304,Spiritual: the soul questioning its own restlessness before God.
+No-observer T5,urdu_0005,urdu,political,2.703873929934087,Political reading: each suppressed aspiration under colonial rule breathes its l
+Hermes H5 (Ours),urdu_0005,urdu,romantic,3.4697077278422053,The beloved is so unattainable that each wish for union becomes an act of dying 
+Template baseline,urdu_0005,urdu,romantic,3.7807173448422304,The heart interrogated for its inexplicable pain — self-inquiry as grief.
+Random interpretation,urdu_0005,urdu,romantic,3.6537467922592226,The heart interrogated for its inexplicable pain — self-inquiry as grief.
+No-observer T5,urdu_0005,urdu,romantic,2.8806552986733784,Political reading: each suppressed aspiration under colonial rule breathes its l
+Hermes H5 (Ours),urdu_0006,urdu,grief,3.128983603176802,Ironic dismissal of paradise as consolation prize for a life of unmet desire.
+Template baseline,urdu_0006,urdu,grief,3.7877394985952755,The speaker mourns desires that consume the very life that births them — a medit
+Random interpretation,urdu_0006,urdu,grief,2.664386897439538,Political reading: each suppressed aspiration under colonial rule breathes its l
+No-observer T5,urdu_0006,urdu,grief,2.6025179442916153,Political reading: each suppressed aspiration under colonial rule breathes its l
+Hermes H5 (Ours),urdu_0006,urdu,spiritual,3.3094474484629934,The speaker mourns desires that consume the very life that births them — a medit
+Template baseline,urdu_0006,urdu,spiritual,3.757054789565872,The beloved is so unattainable that each wish for union becomes an act of dying 
+Random interpretation,urdu_0006,urdu,spiritual,2.585350124775821,The speaker mourns desires that consume the very life that births them — a medit
+No-observer T5,urdu_0006,urdu,spiritual,2.8273760697692683,Political reading: each suppressed aspiration under colonial rule breathes its l
+Hermes H5 (Ours),urdu_0006,urdu,political,4.019162647346437,Political reading: each suppressed aspiration under colonial rule breathes its l
+Template baseline,urdu_0006,urdu,political,3.627010974098711,Political reading: each suppressed aspiration under colonial rule breathes its l
+Random interpretation,urdu_0006,urdu,political,3.9788909307465974,Political reading: each suppressed aspiration under colonial rule breathes its l
+No-observer T5,urdu_0006,urdu,political,3.620549015118468,Political reading: each suppressed aspiration under colonial rule breathes its l
+Hermes H5 (Ours),urdu_0006,urdu,romantic,2.8533811650635843,The beloved is so unattainable that each wish for union becomes an act of dying 
+Template baseline,urdu_0006,urdu,romantic,3.893429222744224,The speaker mourns desires that consume the very life that births them — a medit
+Random interpretation,urdu_0006,urdu,romantic,2.6794491196491808,Political reading: each suppressed aspiration under colonial rule breathes its l
+No-observer T5,urdu_0006,urdu,romantic,2.6923803659006325,Political reading: each suppressed aspiration under colonial rule breathes its l
+Hermes H5 (Ours),urdu_0007,urdu,grief,4.15282494099747,Ironic dismissal of paradise as consolation prize for a life of unmet desire.
+Template baseline,urdu_0007,urdu,grief,3.8347504908528087,Ironic dismissal of paradise as consolation prize for a life of unmet desire.
+Random interpretation,urdu_0007,urdu,grief,2.6787623205914413,"Rationalist reading: the speaker rejects religious promise in favor of earthly, "
+No-observer T5,urdu_0007,urdu,grief,3.013087438061766,"Rationalist reading: the speaker rejects religious promise in favor of earthly, "
+Hermes H5 (Ours),urdu_0007,urdu,spiritual,2.9568598615473403,Ironic dismissal of paradise as consolation prize for a life of unmet desire.
+Template baseline,urdu_0007,urdu,spiritual,3.8667312375015683,"Sufi reinterpretation: true paradise is annihilation in the beloved, not celesti"
+Random interpretation,urdu_0007,urdu,spiritual,2.877601876320013,"Rationalist reading: the speaker rejects religious promise in favor of earthly, "
+No-observer T5,urdu_0007,urdu,spiritual,2.6673359616135186,"Rationalist reading: the speaker rejects religious promise in favor of earthly, "
+Hermes H5 (Ours),urdu_0007,urdu,political,4.046439833208328,"Rationalist reading: the speaker rejects religious promise in favor of earthly, "
+Template baseline,urdu_0007,urdu,political,3.952576132125523,"Rationalist reading: the speaker rejects religious promise in favor of earthly, "
+Random interpretation,urdu_0007,urdu,political,2.6326546126360184,"Sufi reinterpretation: true paradise is annihilation in the beloved, not celesti"
+No-observer T5,urdu_0007,urdu,political,3.7090004088874147,"Rationalist reading: the speaker rejects religious promise in favor of earthly, "
+Hermes H5 (Ours),urdu_0007,urdu,romantic,3.311390777962712,"Sufi reinterpretation: true paradise is annihilation in the beloved, not celesti"
+Template baseline,urdu_0007,urdu,romantic,3.8052111850308536,Ironic dismissal of paradise as consolation prize for a life of unmet desire.
+Random interpretation,urdu_0007,urdu,romantic,3.530428449855634,Ironic dismissal of paradise as consolation prize for a life of unmet desire.
+No-observer T5,urdu_0007,urdu,romantic,3.0537290785599285,"Rationalist reading: the speaker rejects religious promise in favor of earthly, "
+Hermes H5 (Ours),urdu_0008,urdu,grief,3.105431778389833,Ironic dismissal of paradise as consolation prize for a life of unmet desire.
+Template baseline,urdu_0008,urdu,grief,3.739586406514037,The heart interrogated for its inexplicable pain — self-inquiry as grief.
+Random interpretation,urdu_0008,urdu,grief,3.036737345228977,The naive heart chastised for surrendering to love without defense.
+No-observer T5,urdu_0008,urdu,grief,2.8607536011927617,Political reading: each suppressed aspiration under colonial rule breathes its l
+Hermes H5 (Ours),urdu_0008,urdu,spiritual,3.6925353510737424,The heart interrogated for its inexplicable pain — self-inquiry as grief.
+Template baseline,urdu_0008,urdu,spiritual,3.5509897775891455,The naive heart chastised for surrendering to love without defense.
+Random interpretation,urdu_0008,urdu,spiritual,2.964163719516864,Spiritual: the soul questioning its own restlessness before God.
+No-observer T5,urdu_0008,urdu,spiritual,2.833014197294462,Political reading: each suppressed aspiration under colonial rule breathes its l
+Hermes H5 (Ours),urdu_0008,urdu,political,4.179425263368882,Spiritual: the soul questioning its own restlessness before God.
+Template baseline,urdu_0008,urdu,political,3.918091054222433,Spiritual: the soul questioning its own restlessness before God.
+Random interpretation,urdu_0008,urdu,political,2.980411990823454,The naive heart chastised for surrendering to love without defense.
+No-observer T5,urdu_0008,urdu,political,2.6806168636303225,Political reading: each suppressed aspiration under colonial rule breathes its l
+Hermes H5 (Ours),urdu_0008,urdu,romantic,3.4753265444692913,The beloved is so unattainable that each wish for union becomes an act of dying 
+Template baseline,urdu_0008,urdu,romantic,3.5661856620292784,The heart interrogated for its inexplicable pain — self-inquiry as grief.
+Random interpretation,urdu_0008,urdu,romantic,3.6297025578141837,The heart interrogated for its inexplicable pain — self-inquiry as grief.
+No-observer T5,urdu_0008,urdu,romantic,2.7277239305985366,Political reading: each suppressed aspiration under colonial rule breathes its l
+Hermes H5 (Ours),urdu_0009,urdu,grief,3.4846928518931177,Ironic dismissal of paradise as consolation prize for a life of unmet desire.
+Template baseline,urdu_0009,urdu,grief,3.7537615055369917,The speaker mourns desires that consume the very life that births them — a medit
+Random interpretation,urdu_0009,urdu,grief,3.7952099164923783,The speaker mourns desires that consume the very life that births them — a medit
+No-observer T5,urdu_0009,urdu,grief,2.9398404246570347,Political reading: each suppressed aspiration under colonial rule breathes its l
+Hermes H5 (Ours),urdu_0009,urdu,spiritual,3.155800172217887,The speaker mourns desires that consume the very life that births them — a medit
+Template baseline,urdu_0009,urdu,spiritual,3.6232344930603984,The beloved is so unattainable that each wish for union becomes an act of dying 
+Random interpretation,urdu_0009,urdu,spiritual,2.682131825851131,Political reading: each suppressed aspiration under colonial rule breathes its l
+No-observer T5,urdu_0009,urdu,spiritual,2.950335826207745,Political reading: each suppressed aspiration under colonial rule breathes its l
+Hermes H5 (Ours),urdu_0009,urdu,political,4.2106297495582705,Political reading: each suppressed aspiration under colonial rule breathes its l
+Template baseline,urdu_0009,urdu,political,4.089598738858439,Political reading: each suppressed aspiration under colonial rule breathes its l
+Random interpretation,urdu_0009,urdu,political,2.8554072900762018,The beloved is so unattainable that each wish for union becomes an act of dying 
+No-observer T5,urdu_0009,urdu,political,3.7032786595409775,Political reading: each suppressed aspiration under colonial rule breathes its l
+Hermes H5 (Ours),urdu_0009,urdu,romantic,3.2085093392724695,The beloved is so unattainable that each wish for union becomes an act of dying 
+Template baseline,urdu_0009,urdu,romantic,3.672017282278718,The speaker mourns desires that consume the very life that births them — a medit
+Random interpretation,urdu_0009,urdu,romantic,2.7005829390053924,The beloved is so unattainable that each wish for union becomes an act of dying 
+No-observer T5,urdu_0009,urdu,romantic,3.3968912717252135,Political reading: each suppressed aspiration under colonial rule breathes its l
+Hermes H5 (Ours),urdu_0010,urdu,grief,4.352793676505072,Ironic dismissal of paradise as consolation prize for a life of unmet desire.
+Template baseline,urdu_0010,urdu,grief,3.9291646983510007,Ironic dismissal of paradise as consolation prize for a life of unmet desire.
+Random interpretation,urdu_0010,urdu,grief,2.6848173862975404,"Sufi reinterpretation: true paradise is annihilation in the beloved, not celesti"
+No-observer T5,urdu_0010,urdu,grief,3.027107816819063,"Rationalist reading: the speaker rejects religious promise in favor of earthly, "
+Hermes H5 (Ours),urdu_0010,urdu,spiritual,3.3432067738626907,Ironic dismissal of paradise as consolation prize for a life of unmet desire.
+Template baseline,urdu_0010,urdu,spiritual,4.082243193403666,"Sufi reinterpretation: true paradise is annihilation in the beloved, not celesti"
+Random interpretation,urdu_0010,urdu,spiritual,3.0532615558535174,Ironic dismissal of paradise as consolation prize for a life of unmet desire.
+No-observer T5,urdu_0010,urdu,spiritual,2.559420332523897,"Rationalist reading: the speaker rejects religious promise in favor of earthly, "
+Hermes H5 (Ours),urdu_0010,urdu,political,4.033524076609514,"Rationalist reading: the speaker rejects religious promise in favor of earthly, "
+Template baseline,urdu_0010,urdu,political,3.6494318276804543,"Rationalist reading: the speaker rejects religious promise in favor of earthly, "
+Random interpretation,urdu_0010,urdu,political,2.650079110377036,Ironic dismissal of paradise as consolation prize for a life of unmet desire.
+No-observer T5,urdu_0010,urdu,political,3.8485178546390584,"Rationalist reading: the speaker rejects religious promise in favor of earthly, "
+Hermes H5 (Ours),urdu_0010,urdu,romantic,3.093273915779377,"Sufi reinterpretation: true paradise is annihilation in the beloved, not celesti"
+Template baseline,urdu_0010,urdu,romantic,4.110889781114378,Ironic dismissal of paradise as consolation prize for a life of unmet desire.
+Random interpretation,urdu_0010,urdu,romantic,3.063996415905996,"Sufi reinterpretation: true paradise is annihilation in the beloved, not celesti"
+No-observer T5,urdu_0010,urdu,romantic,2.790700967765045,"Rationalist reading: the speaker rejects religious promise in favor of earthly, "
+Hermes H5 (Ours),urdu_0011,urdu,grief,3.4782323246292965,Ironic dismissal of paradise as consolation prize for a life of unmet desire.
+Template baseline,urdu_0011,urdu,grief,4.02322019408603,The heart interrogated for its inexplicable pain — self-inquiry as grief.
+Random interpretation,urdu_0011,urdu,grief,3.732394016123411,The heart interrogated for its inexplicable pain — self-inquiry as grief.
+No-observer T5,urdu_0011,urdu,grief,2.4656097800383168,Political reading: each suppressed aspiration under colonial rule breathes its l
+Hermes H5 (Ours),urdu_0011,urdu,spiritual,3.365674449635913,The heart interrogated for its inexplicable pain — self-inquiry as grief.
+Template baseline,urdu_0011,urdu,spiritual,3.703306680338229,The naive heart chastised for surrendering to love without defense.
+Random interpretation,urdu_0011,urdu,spiritual,3.0293455511518967,The heart interrogated for its inexplicable pain — self-inquiry as grief.
+No-observer T5,urdu_0011,urdu,spiritual,2.734946986218163,Political reading: each suppressed aspiration under colonial rule breathes its l
+Hermes H5 (Ours),urdu_0011,urdu,political,4.209452648834884,Spiritual: the soul questioning its own restlessness before God.
+Template baseline,urdu_0011,urdu,political,3.8785527112068747,Spiritual: the soul questioning its own restlessness before God.
+Random interpretation,urdu_0011,urdu,political,2.6583925961154202,The naive heart chastised for surrendering to love without defense.
+No-observer T5,urdu_0011,urdu,political,2.949615323013829,Political reading: each suppressed aspiration under colonial rule breathes its l
+Hermes H5 (Ours),urdu_0011,urdu,romantic,3.146919145634616,The beloved is so unattainable that each wish for union becomes an act of dying 
+Template baseline,urdu_0011,urdu,romantic,3.8299973299795527,The heart interrogated for its inexplicable pain — self-inquiry as grief.
+Random interpretation,urdu_0011,urdu,romantic,3.9436114767848283,The heart interrogated for its inexplicable pain — self-inquiry as grief.
+No-observer T5,urdu_0011,urdu,romantic,2.5833321156589966,Political reading: each suppressed aspiration under colonial rule breathes its l
+Hermes H5 (Ours),urdu_0012,urdu,grief,3.1537577270146238,Ironic dismissal of paradise as consolation prize for a life of unmet desire.
+Template baseline,urdu_0012,urdu,grief,3.78221986489567,The speaker mourns desires that consume the very life that births them — a medit
+Random interpretation,urdu_0012,urdu,grief,2.7237075478671118,The beloved is so unattainable that each wish for union becomes an act of dying 
+No-observer T5,urdu_0012,urdu,grief,2.860003058491294,Political reading: each suppressed aspiration under colonial rule breathes its l
+Hermes H5 (Ours),urdu_0012,urdu,spiritual,3.092789639782637,The speaker mourns desires that consume the very life that births them — a medit
+Template baseline,urdu_0012,urdu,spiritual,3.716689940083649,The beloved is so unattainable that each wish for union becomes an act of dying 
+Random interpretation,urdu_0012,urdu,spiritual,3.69351213005719,The beloved is so unattainable that each wish for union becomes an act of dying 
+No-observer T5,urdu_0012,urdu,spiritual,2.9085253628526986,Political reading: each suppressed aspiration under colonial rule breathes its l
+Hermes H5 (Ours),urdu_0012,urdu,political,4.126133383138168,Political reading: each suppressed aspiration under colonial rule breathes its l
+Template baseline,urdu_0012,urdu,political,3.869006808632533,Political reading: each suppressed aspiration under colonial rule breathes its l
+Random interpretation,urdu_0012,urdu,political,4.096355765184511,Political reading: each suppressed aspiration under colonial rule breathes its l
+No-observer T5,urdu_0012,urdu,political,3.788777236947412,Political reading: each suppressed aspiration under colonial rule breathes its l
+Hermes H5 (Ours),urdu_0012,urdu,romantic,3.3676569956076814,The beloved is so unattainable that each wish for union becomes an act of dying 
+Template baseline,urdu_0012,urdu,romantic,4.050703112613969,The speaker mourns desires that consume the very life that births them — a medit
+Random interpretation,urdu_0012,urdu,romantic,2.95492662760877,The beloved is so unattainable that each wish for union becomes an act of dying 
+No-observer T5,urdu_0012,urdu,romantic,2.7225084366746892,Political reading: each suppressed aspiration under colonial rule breathes its l
+Hermes H5 (Ours),urdu_0013,urdu,grief,4.296316163849792,Ironic dismissal of paradise as consolation prize for a life of unmet desire.
+Template baseline,urdu_0013,urdu,grief,3.606893211029698,Ironic dismissal of paradise as consolation prize for a life of unmet desire.
+Random interpretation,urdu_0013,urdu,grief,3.682993526277507,Ironic dismissal of paradise as consolation prize for a life of unmet desire.
+No-observer T5,urdu_0013,urdu,grief,2.7009689296321135,"Rationalist reading: the speaker rejects religious promise in favor of earthly, "
+Hermes H5 (Ours),urdu_0013,urdu,spiritual,3.514386251619892,Ironic dismissal of paradise as consolation prize for a life of unmet desire.
+Template baseline,urdu_0013,urdu,spiritual,3.67811232286171,"Sufi reinterpretation: true paradise is annihilation in the beloved, not celesti"
+Random interpretation,urdu_0013,urdu,spiritual,2.657162213049251,"Rationalist reading: the speaker rejects religious promise in favor of earthly, "
+No-observer T5,urdu_0013,urdu,spiritual,2.624695578701178,"Rationalist reading: the speaker rejects religious promise in favor of earthly, "
+Hermes H5 (Ours),urdu_0013,urdu,political,4.283971764289614,"Rationalist reading: the speaker rejects religious promise in favor of earthly, "
+Template baseline,urdu_0013,urdu,political,3.821393208900332,"Rationalist reading: the speaker rejects religious promise in favor of earthly, "
+Random interpretation,urdu_0013,urdu,political,2.94429757229251,"Sufi reinterpretation: true paradise is annihilation in the beloved, not celesti"
+No-observer T5,urdu_0013,urdu,political,3.900688949911603,"Rationalist reading: the speaker rejects religious promise in favor of earthly, "
+Hermes H5 (Ours),urdu_0013,urdu,romantic,2.97123595658514,"Sufi reinterpretation: true paradise is annihilation in the beloved, not celesti"
+Template baseline,urdu_0013,urdu,romantic,3.6789083344984443,Ironic dismissal of paradise as consolation prize for a life of unmet desire.
+Random interpretation,urdu_0013,urdu,romantic,2.9964695191182744,"Rationalist reading: the speaker rejects religious promise in favor of earthly, "
+No-observer T5,urdu_0013,urdu,romantic,2.7611754701903806,"Rationalist reading: the speaker rejects religious promise in favor of earthly, "
+Hermes H5 (Ours),urdu_0014,urdu,grief,3.36307216490953,Ironic dismissal of paradise as consolation prize for a life of unmet desire.
+Template baseline,urdu_0014,urdu,grief,3.7775478578127024,The heart interrogated for its inexplicable pain — self-inquiry as grief.
+Random interpretation,urdu_0014,urdu,grief,3.6548515357567215,The heart interrogated for its inexplicable pain — self-inquiry as grief.
+No-observer T5,urdu_0014,urdu,grief,2.721502964992145,Political reading: each suppressed aspiration under colonial rule breathes its l
+Hermes H5 (Ours),urdu_0014,urdu,spiritual,3.253162238047568,The heart interrogated for its inexplicable pain — self-inquiry as grief.
+Template baseline,urdu_0014,urdu,spiritual,3.7151670856396364,The naive heart chastised for surrendering to love without defense.
+Random interpretation,urdu_0014,urdu,spiritual,3.830138855984787,The naive heart chastised for surrendering to love without defense.
+No-observer T5,urdu_0014,urdu,spiritual,2.798303506742304,Political reading: each suppressed aspiration under colonial rule breathes its l
+Hermes H5 (Ours),urdu_0014,urdu,political,3.9614713015118554,Spiritual: the soul questioning its own restlessness before God.
+Template baseline,urdu_0014,urdu,political,3.797394798873635,Spiritual: the soul questioning its own restlessness before God.
+Random interpretation,urdu_0014,urdu,political,2.8487627341942354,The heart interrogated for its inexplicable pain — self-inquiry as grief.
+No-observer T5,urdu_0014,urdu,political,2.7906490600345513,Political reading: each suppressed aspiration under colonial rule breathes its l
+Hermes H5 (Ours),urdu_0014,urdu,romantic,3.2327642614571284,The beloved is so unattainable that each wish for union becomes an act of dying 
+Template baseline,urdu_0014,urdu,romantic,3.717432219096618,The heart interrogated for its inexplicable pain — self-inquiry as grief.
+Random interpretation,urdu_0014,urdu,romantic,3.144075912964489,Spiritual: the soul questioning its own restlessness before God.
+No-observer T5,urdu_0014,urdu,romantic,2.9452013630798097,Political reading: each suppressed aspiration under colonial rule breathes its l
+Hermes H5 (Ours),urdu_0015,urdu,grief,3.373226019006365,Ironic dismissal of paradise as consolation prize for a life of unmet desire.
+Template baseline,urdu_0015,urdu,grief,3.7257634706764544,The speaker mourns desires that consume the very life that births them — a medit
+Random interpretation,urdu_0015,urdu,grief,2.6564730683648095,The beloved is so unattainable that each wish for union becomes an act of dying 
+No-observer T5,urdu_0015,urdu,grief,2.7373331234795675,Political reading: each suppressed aspiration under colonial rule breathes its l
+Hermes H5 (Ours),urdu_0015,urdu,spiritual,3.1782956386597676,The speaker mourns desires that consume the very life that births them — a medit
+Template baseline,urdu_0015,urdu,spiritual,3.7086765256364953,The beloved is so unattainable that each wish for union becomes an act of dying 
+Random interpretation,urdu_0015,urdu,spiritual,2.568356884136834,Political reading: each suppressed aspiration under colonial rule breathes its l
+No-observer T5,urdu_0015,urdu,spiritual,2.7384893557466676,Political reading: each suppressed aspiration under colonial rule breathes its l
+Hermes H5 (Ours),urdu_0015,urdu,political,4.13938958246213,Political reading: each suppressed aspiration under colonial rule breathes its l
+Template baseline,urdu_0015,urdu,political,3.903252055555703,Political reading: each suppressed aspiration under colonial rule breathes its l
+Random interpretation,urdu_0015,urdu,political,3.899765907728222,Political reading: each suppressed aspiration under colonial rule breathes its l
+No-observer T5,urdu_0015,urdu,political,3.9651199708134075,Political reading: each suppressed aspiration under colonial rule breathes its l
+Hermes H5 (Ours),urdu_0015,urdu,romantic,3.011953560820702,The beloved is so unattainable that each wish for union becomes an act of dying 
+Template baseline,urdu_0015,urdu,romantic,3.8601587461540445,The speaker mourns desires that consume the very life that births them — a medit
+Random interpretation,urdu_0015,urdu,romantic,2.691728037667657,The beloved is so unattainable that each wish for union becomes an act of dying 
+No-observer T5,urdu_0015,urdu,romantic,2.5419665024496876,Political reading: each suppressed aspiration under colonial rule breathes its l
+Hermes H5 (Ours),urdu_0016,urdu,grief,4.135709664457694,Ironic dismissal of paradise as consolation prize for a life of unmet desire.
+Template baseline,urdu_0016,urdu,grief,3.9603057470201923,Ironic dismissal of paradise as consolation prize for a life of unmet desire.
+Random interpretation,urdu_0016,urdu,grief,2.7358224538413287,"Rationalist reading: the speaker rejects religious promise in favor of earthly, "
+No-observer T5,urdu_0016,urdu,grief,3.026488405870768,"Rationalist reading: the speaker rejects religious promise in favor of earthly, "
+Hermes H5 (Ours),urdu_0016,urdu,spiritual,3.2606262109218,Ironic dismissal of paradise as consolation prize for a life of unmet desire.
+Template baseline,urdu_0016,urdu,spiritual,3.7408864281529133,"Sufi reinterpretation: true paradise is annihilation in the beloved, not celesti"
+Random interpretation,urdu_0016,urdu,spiritual,2.952301697929711,Ironic dismissal of paradise as consolation prize for a life of unmet desire.
+No-observer T5,urdu_0016,urdu,spiritual,2.8480932415556683,"Rationalist reading: the speaker rejects religious promise in favor of earthly, "
+Hermes H5 (Ours),urdu_0016,urdu,political,4.060116091732994,"Rationalist reading: the speaker rejects religious promise in favor of earthly, "
+Template baseline,urdu_0016,urdu,political,4.078820395337077,"Rationalist reading: the speaker rejects religious promise in favor of earthly, "
+Random interpretation,urdu_0016,urdu,political,3.838921823462971,"Rationalist reading: the speaker rejects religious promise in favor of earthly, "
+No-observer T5,urdu_0016,urdu,political,3.8028194287978234,"Rationalist reading: the speaker rejects religious promise in favor of earthly, "
+Hermes H5 (Ours),urdu_0016,urdu,romantic,3.0499645331079077,"Sufi reinterpretation: true paradise is annihilation in the beloved, not celesti"
+Template baseline,urdu_0016,urdu,romantic,3.9769307401411607,Ironic dismissal of paradise as consolation prize for a life of unmet desire.
+Random interpretation,urdu_0016,urdu,romantic,3.8775913141041958,Ironic dismissal of paradise as consolation prize for a life of unmet desire.
+No-observer T5,urdu_0016,urdu,romantic,2.8860559339211873,"Rationalist reading: the speaker rejects religious promise in favor of earthly, "
+Hermes H5 (Ours),urdu_0017,urdu,grief,3.108803690677963,Ironic dismissal of paradise as consolation prize for a life of unmet desire.
+Template baseline,urdu_0017,urdu,grief,3.9251150857865102,The heart interrogated for its inexplicable pain — self-inquiry as grief.
+Random interpretation,urdu_0017,urdu,grief,3.93677203903562,The heart interrogated for its inexplicable pain — self-inquiry as grief.
+No-observer T5,urdu_0017,urdu,grief,2.6666753458249826,Political reading: each suppressed aspiration under colonial rule breathes its l
+Hermes H5 (Ours),urdu_0017,urdu,spiritual,3.185821186427874,The heart interrogated for its inexplicable pain — self-inquiry as grief.
+Template baseline,urdu_0017,urdu,spiritual,3.8872059589008385,The naive heart chastised for surrendering to love without defense.
+Random interpretation,urdu_0017,urdu,spiritual,2.604268845737111,Spiritual: the soul questioning its own restlessness before God.
+No-observer T5,urdu_0017,urdu,spiritual,2.7443651098626174,Political reading: each suppressed aspiration under colonial rule breathes its l
+Hermes H5 (Ours),urdu_0017,urdu,political,4.132913234281904,Spiritual: the soul questioning its own restlessness before God.
+Template baseline,urdu_0017,urdu,political,3.982799781618338,Spiritual: the soul questioning its own restlessness before God.
+Random interpretation,urdu_0017,urdu,political,2.877828510913117,The heart interrogated for its inexplicable pain — self-inquiry as grief.
+No-observer T5,urdu_0017,urdu,political,3.0540022271789438,Political reading: each suppressed aspiration under colonial rule breathes its l
+Hermes H5 (Ours),urdu_0017,urdu,romantic,3.1357301519327128,The beloved is so unattainable that each wish for union becomes an act of dying 
+Template baseline,urdu_0017,urdu,romantic,3.9499986507589413,The heart interrogated for its inexplicable pain — self-inquiry as grief.
+Random interpretation,urdu_0017,urdu,romantic,3.307420938955547,The naive heart chastised for surrendering to love without defense.
+No-observer T5,urdu_0017,urdu,romantic,2.606785010887215,Political reading: each suppressed aspiration under colonial rule breathes its l
+Hermes H5 (Ours),hindi_0018,hindi,grief,4.243805358259636,The saint in the marketplace — spiritual practice embedded in ordinary life.
+Template baseline,hindi_0018,hindi,grief,4.21231736238651,The saint in the marketplace — spiritual practice embedded in ordinary life.
+Random interpretation,hindi_0018,hindi,grief,3.809988324035438,The saint in the marketplace — spiritual practice embedded in ordinary life.
+No-observer T5,hindi_0018,hindi,grief,2.709769324862145,Political reading: Kabir wishes well to all regardless of caste or creed.
+Hermes H5 (Ours),hindi_0018,hindi,spiritual,3.2355497463537515,The saint in the marketplace — spiritual practice embedded in ordinary life.
+Template baseline,hindi_0018,hindi,spiritual,3.8061621296142127,Radical social equality: Kabir wishes well to all regardless of caste or creed.
+Random interpretation,hindi_0018,hindi,spiritual,2.461191005065516,The saint in the marketplace — spiritual practice embedded in ordinary life.
+No-observer T5,hindi_0018,hindi,spiritual,3.725330634073131,Political reading: Kabir wishes well to all regardless of caste or creed.
+Hermes H5 (Ours),hindi_0018,hindi,political,3.014817051503595,"Elegiac: the campsite as civilization itself, lost to time and desert winds."
+Template baseline,hindi_0018,hindi,political,3.7374814907478275,The mystic as witness: standing in the world without belonging to it.
+Random interpretation,hindi_0018,hindi,political,3.1739708438168197,The saint in the marketplace — spiritual practice embedded in ordinary life.
+No-observer T5,hindi_0018,hindi,political,2.720664421671091,Political reading: Kabir wishes well to all regardless of caste or creed.
+Hermes H5 (Ours),hindi_0018,hindi,romantic,3.013220430381438,Radical social equality: Kabir wishes well to all regardless of caste or creed.
+Template baseline,hindi_0018,hindi,romantic,3.931889585774984,The saint in the marketplace — spiritual practice embedded in ordinary life.
+Random interpretation,hindi_0018,hindi,romantic,2.5896076862259405,Radical social equality: Kabir wishes well to all regardless of caste or creed.
+No-observer T5,hindi_0018,hindi,romantic,2.5171672263889047,Political reading: Kabir wishes well to all regardless of caste or creed.
+Hermes H5 (Ours),hindi_0019,hindi,grief,4.241177098123993,Complete self-surrender: the ego dissolved in devotion to the divine.
+Template baseline,hindi_0019,hindi,grief,3.7725615052381114,Complete self-surrender: the ego dissolved in devotion to the divine.
+Random interpretation,hindi_0019,hindi,grief,2.6941074000286562,Advaita non-dualism: the individual self is only an illusion; the real is Brahma
+No-observer T5,hindi_0019,hindi,grief,2.9494282433642596,"Political humility: the leader who claims nothing for himself, only service."
+Hermes H5 (Ours),hindi_0019,hindi,spiritual,3.3503315079935674,Complete self-surrender: the ego dissolved in devotion to the divine.
+Template baseline,hindi_0019,hindi,spiritual,3.746036747509155,Advaita non-dualism: the individual self is only an illusion; the real is Brahma
+Random interpretation,hindi_0019,hindi,spiritual,3.7563001990812577,Advaita non-dualism: the individual self is only an illusion; the real is Brahma
+No-observer T5,hindi_0019,hindi,spiritual,2.9123821105735295,"Political humility: the leader who claims nothing for himself, only service."
+Hermes H5 (Ours),hindi_0019,hindi,political,4.37855421296281,"Political humility: the leader who claims nothing for himself, only service."
+Template baseline,hindi_0019,hindi,political,3.757581018483601,"Political humility: the leader who claims nothing for himself, only service."
+Random interpretation,hindi_0019,hindi,political,3.8982032739512213,"Political humility: the leader who claims nothing for himself, only service."
+No-observer T5,hindi_0019,hindi,political,3.8847800325626896,"Political humility: the leader who claims nothing for himself, only service."
+Hermes H5 (Ours),hindi_0019,hindi,romantic,3.412554461063329,Advaita non-dualism: the individual self is only an illusion; the real is Brahma
+Template baseline,hindi_0019,hindi,romantic,3.8058963798115197,Complete self-surrender: the ego dissolved in devotion to the divine.
+Random interpretation,hindi_0019,hindi,romantic,2.743809540047029,Advaita non-dualism: the individual self is only an illusion; the real is Brahma
+No-observer T5,hindi_0019,hindi,romantic,2.784510489385034,"Political humility: the leader who claims nothing for himself, only service."

@@ -1,0 +1,37 @@
+[
+  {
+    "verse_id": "UR002",
+    "label": "Ghalib (Urdu) — Grief context",
+    "context": "grief",
+    "hermes_output": "The speaker mourns desires that consume the very life that births them — a meditation on mortal longing.",
+    "baseline_output": "The poet commanding himself: the artist must never accept creative extinction."
+  },
+  {
+    "verse_id": "TA001",
+    "label": "Kaniyan Pungundranar (Tamil) — Political context",
+    "context": "political",
+    "hermes_output": "The poet commanding himself: the artist must never accept creative extinction.",
+    "baseline_output": "The speaker argues that the speaker is not speaker-dependent but independently discoverable."
+  },
+  {
+    "verse_id": "SA006",
+    "label": "Bhagavad Gita (Sanskrit) — Contemplative context",
+    "context": "contemplative",
+    "hermes_output": "The speaker mourns desires that consume the very life that births them — a meditation on mortal longing.",
+    "baseline_output": "The poet commanding himself: the artist must never accept creative extinction."
+  },
+  {
+    "verse_id": "AR003",
+    "label": "Al-Hallaj (Arabic) — Spiritual/Sufi context",
+    "context": "spiritual",
+    "hermes_output": "The poet commanding himself: the artist must never accept creative extinction.",
+    "baseline_output": "The poet commanding himself: the artist must never accept creative extinction."
+  },
+  {
+    "verse_id": "EN005",
+    "label": "Keats (English) — Detached context",
+    "context": "detached",
+    "hermes_output": "The poet commanding himself: the artist must never accept creative extinction.",
+    "baseline_output": "The poet commanding himself: the artist must never accept creative extinction."
+  }
+]

@@ -1,0 +1,9 @@
+id,language,author,entropy,level
+UR001,urdu,Mir Taqi Mir,0.6894759462965683,🟢 Low
+UR002,urdu,Mirza Ghalib,0.6335293824408228,🟢 Low
+EN001,english,John Donne,0.6597221911465023,🟢 Low
+EN002,english,Emily Dickinson,0.6893337548670606,🟢 Low
+HI001,hindi,Mahadevi Varma,0.6257103717768939,🟢 Low
+SA001,sanskrit,Traditional,0.6533672648443927,🟢 Low
+TA001,tamil,Kaniyan Pungundranar,0.6867643782277417,🟢 Low
+AR001,arabic,Al-Mutanabbi,0.6410671145711384,🟢 Low

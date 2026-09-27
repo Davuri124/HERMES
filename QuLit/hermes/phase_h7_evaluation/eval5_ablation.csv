@@ -1,0 +1,6 @@
+config,direction_acc,osi_amb_corr
+Full Hermes (all components),0.25,0.4944
+− Observer Encoder (random obs),0.4125,-0.2147
+− VAE latent (raw context),0.5125,0.6184
+− Skip connection,0.5875,0.6646
+− Field network (random NSF),0.6,0.0339

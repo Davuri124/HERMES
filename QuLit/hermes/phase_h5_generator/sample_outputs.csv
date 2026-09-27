@@ -1,0 +1,8 @@
+verse,context,cultural,temporal,interpretation,osi_score,amb_predicted
+Hazaaron khwahishein aisi ke har khwahish pe dam nikle,grief,urdu_classical,partition_era,Each suppressed aspiration under colonial rule breathes its last before being spoken.,0.87,0.694786787033081
+Hazaaron khwahishein aisi ke har khwahish pe dam nikle,romantic,sufi,contemporary,"Radical social equality: Hazaar speaks ironically: the leader who claims nothing for himself, only service.",0.87,0.7427531480789185
+Hazaaron khwahishein aisi ke har khwahish pe dam nikle,political,postcolonial,colonial,Political reading: each suppressed aspiration under colonial rule breathes its last before being spoken.,0.87,0.7406116127967834
+"Beauty is truth, truth beauty — that is all ye know on earth",contemplative,english_romantic,early_modern,"Stoic consolation: in the face of mortality, the beautiful and true are enough.",0.84,0.6893864870071411
+Yaathum oore yaavarum kelir,political,secular_humanist,ai_age,Political manifesto: the oldest recorded cosmopolitan statement.,0.73,0.767918050289154
+Aham brahmasmi — I am Brahman,spiritual,sanskrit_vedantic,classical,Metaphysical identity claim: individual consciousness equals universal consciousness.,0.91,0.7549464702606201
+"Kabira khada bazaar mein, mange sabki khair",rebellious,feminist,contemporary,Gestion: the bazaar of knowledge collapses in the presence of love.,0.71,0.6878470778465271

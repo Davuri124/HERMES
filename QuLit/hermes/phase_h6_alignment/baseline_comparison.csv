@@ -1,0 +1,7 @@
+model,pearson,spearman,mae,acc
+Hermes CCA (Ours),0.7899,0.6701,0.1546,0.7925
+mBERT cosine (B2),0.7526,0.7673,0.2437,0.5849
+Interp Jaccard (B3),0.7444,0.696,0.174,0.7296
+Raw cosine (no alignment),0.4557,0.4501,0.5339,0.5535
+Random (B1),-0.0795,-0.0653,0.3773,0.4654
+Language family (B4),-0.2457,-0.2428,0.3658,0.3522

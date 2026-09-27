@@ -1,0 +1,4 @@
+Model,bleu4,rougeL,bert_f1,ocs
+Random Baseline,0.0,0.05,0.5,0.1
+T5-vanilla (no prefix),0.08,0.15,0.62,0.18
+Hermes H5 (ours),0.2468,0.3125,0.8869,0.7378

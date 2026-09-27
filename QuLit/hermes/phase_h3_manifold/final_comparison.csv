@@ -1,0 +1,7 @@
+model,silhouette,osi_amb_corr,ctx_f_stat,cross_align
+Hermes NSF (Ours),0.2267,0.3806,586.8122,0.3273
+Concat + PCA,0.0002,0.2729,0.0002,-0.0327
+Random,-0.0007,0.0136,0.6609,0.0001
+Simple VAE (no observer),-0.0007,0.2852,1.7133,-0.0017
+Linear Projection,-0.0011,-0.1237,17.3221,0.6824
+mBERT-CLS only,-0.0038,0.3996,0.0,-0.0649

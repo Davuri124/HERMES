@@ -1,0 +1,27 @@
+verse_1,verse_2,lang_1,lang_2,author_1,author_2,fidelity,trace_distance,entanglement_score,text_1,text_2
+SA001,TA001,sanskrit,tamil,Traditional,Kaniyan Pungundranar,0.8599,0.3743,0.7428,Kavyashastravinodena kalo gacc,Yadhum oore yaavarum kelir
+UR001,AR001,urdu,arabic,Mir Taqi Mir,Al-Mutanabbi,0.7992,0.4481,0.6756,Dil ke aaine mein hai tasveer-,Wa ma naylul matalib bit-taman
+EN001,TA001,english,tamil,John Donne,Kaniyan Pungundranar,0.5771,0.6503,0.4634,"No man is an island, entire of",Yadhum oore yaavarum kelir
+UR002,SA001,urdu,sanskrit,Mirza Ghalib,Traditional,0.4664,0.7305,0.368,Hazaron khwahishen aisi ke har,Kavyashastravinodena kalo gacc
+EN001,SA001,english,sanskrit,John Donne,Traditional,0.4452,0.7449,0.3502,"No man is an island, entire of",Kavyashastravinodena kalo gacc
+UR002,TA001,urdu,tamil,Mirza Ghalib,Kaniyan Pungundranar,0.3398,0.8125,0.2636,Hazaron khwahishen aisi ke har,Yadhum oore yaavarum kelir
+UR001,EN002,urdu,english,Mir Taqi Mir,Emily Dickinson,0.1907,0.8996,0.1456,Dil ke aaine mein hai tasveer-,Because I could not stop for D
+UR002,AR001,urdu,arabic,Mirza Ghalib,Al-Mutanabbi,0.1052,0.9459,0.0796,Hazaron khwahishen aisi ke har,Wa ma naylul matalib bit-taman
+SA001,AR001,sanskrit,arabic,Traditional,Al-Mutanabbi,0.0456,0.9769,0.0343,Kavyashastravinodena kalo gacc,Wa ma naylul matalib bit-taman
+UR001,SA001,urdu,sanskrit,Mir Taqi Mir,Traditional,0.0405,0.9795,0.0305,Dil ke aaine mein hai tasveer-,Kavyashastravinodena kalo gacc
+EN002,AR001,english,arabic,Emily Dickinson,Al-Mutanabbi,0.0367,0.9815,0.0276,Because I could not stop for D,Wa ma naylul matalib bit-taman
+EN002,HI001,english,hindi,Emily Dickinson,Mahadevi Varma,0.0181,0.9909,0.0136,Because I could not stop for D,Main neer bhari dukh ki badli
+UR002,EN001,urdu,english,Mirza Ghalib,John Donne,0.0117,0.9941,0.0088,Hazaron khwahishen aisi ke har,"No man is an island, entire of"
+UR001,EN001,urdu,english,Mir Taqi Mir,John Donne,0.0118,0.9941,0.0088,Dil ke aaine mein hai tasveer-,"No man is an island, entire of"
+TA001,AR001,tamil,arabic,Kaniyan Pungundranar,Al-Mutanabbi,0.0104,0.9948,0.0078,Yadhum oore yaavarum kelir,Wa ma naylul matalib bit-taman
+UR001,TA001,urdu,tamil,Mir Taqi Mir,Kaniyan Pungundranar,0.01,0.995,0.0075,Dil ke aaine mein hai tasveer-,Yadhum oore yaavarum kelir
+UR002,HI001,urdu,hindi,Mirza Ghalib,Mahadevi Varma,0.0069,0.9965,0.0052,Hazaron khwahishen aisi ke har,Main neer bhari dukh ki badli
+EN001,AR001,english,arabic,John Donne,Al-Mutanabbi,0.0059,0.9971,0.0044,"No man is an island, entire of",Wa ma naylul matalib bit-taman
+HI001,AR001,hindi,arabic,Mahadevi Varma,Al-Mutanabbi,0.0025,0.9987,0.0019,Main neer bhari dukh ki badli,Wa ma naylul matalib bit-taman
+EN001,HI001,english,hindi,John Donne,Mahadevi Varma,0.0024,0.9988,0.0018,"No man is an island, entire of",Main neer bhari dukh ki badli
+UR002,EN002,urdu,english,Mirza Ghalib,Emily Dickinson,0.0022,0.9989,0.0017,Hazaron khwahishen aisi ke har,Because I could not stop for D
+UR001,HI001,urdu,hindi,Mir Taqi Mir,Mahadevi Varma,0.0018,0.9991,0.0013,Dil ke aaine mein hai tasveer-,Main neer bhari dukh ki badli
+EN002,SA001,english,sanskrit,Emily Dickinson,Traditional,0.0016,0.9992,0.0012,Because I could not stop for D,Kavyashastravinodena kalo gacc
+EN002,TA001,english,tamil,Emily Dickinson,Kaniyan Pungundranar,0.0002,0.9999,0.0002,Because I could not stop for D,Yadhum oore yaavarum kelir
+HI001,TA001,hindi,tamil,Mahadevi Varma,Kaniyan Pungundranar,0.0001,0.9999,0.0001,Main neer bhari dukh ki badli,Yadhum oore yaavarum kelir
+HI001,SA001,hindi,sanskrit,Mahadevi Varma,Traditional,0.0,1.0,0.0,Main neer bhari dukh ki badli,Kavyashastravinodena kalo gacc

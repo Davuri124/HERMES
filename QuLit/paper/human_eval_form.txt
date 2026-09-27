@@ -1,0 +1,400 @@
+======================================================================
+HUMAN EVALUATION FORM — QuLit Study
+Literary Meaning Interpretation Quality Assessment
+======================================================================
+
+INSTRUCTIONS:
+For each verse below, you will see:
+  - The original verse with translation
+  - Interpretation A
+  - Interpretation B
+
+Please rate each on:
+  Q1. Appropriateness (1-5): How well does this
+      interpretation fit the verse?
+  Q2. Depth (1-5): How insightful is this interpretation?
+  Q3. Preference: Which do you prefer overall? A / B / Equal
+
+Annotator Name: _______________________
+Date: _______________________
+======================================================================
+
+VERSE 1 of 20
+ID: UR001 | Language: urdu | Author: Mir Taqi Mir
+Original: دل کے آئینے میں ہے تصویرِ یار
+Romanized: Dil ke aaine mein hai tasveer-e-yaar
+Translation: In the mirror of the heart lies the beloved's image
+
+Interpretation A:
+  The lover sees only the beloved whenever they look inward — a statement of total devotion
+
+Interpretation B:
+  The image is trapped inside — the beloved is gone but their presence is permanently etched in memory
+
+Your ratings:
+  A — Appropriateness (1-5): ___  Depth (1-5): ___
+  B — Appropriateness (1-5): ___  Depth (1-5): ___
+  Overall preference: A / B / Equal
+  Comments: ________________________________
+----------------------------------------------------------------------
+
+VERSE 2 of 20
+ID: UR002 | Language: urdu | Author: Mirza Ghalib
+Original: ہزاروں خواہشیں ایسی کہ ہر خواہش پہ دم نکلے
+Romanized: Hazaron khwahishen aisi ke har khwahish pe dam nikle
+Translation: Thousands of desires, such that each desire takes a breath away
+
+Interpretation A:
+  The sheer volume of unfulfilled longing is itself a form of slow death — desire as consumption
+
+Interpretation B:
+  The speaker is overwhelmed not by one love but by the multiplicity of desires pulling in all directions simultaneously
+
+Your ratings:
+  A — Appropriateness (1-5): ___  Depth (1-5): ___
+  B — Appropriateness (1-5): ___  Depth (1-5): ___
+  Overall preference: A / B / Equal
+  Comments: ________________________________
+----------------------------------------------------------------------
+
+VERSE 3 of 20
+ID: UR003 | Language: urdu | Author: Mirza Ghalib
+Original: آہ کو چاہیے اک عمر اثر ہونے تک
+Romanized: Aah ko chahiye ik umr asar hone tak
+Translation: A sigh needs a lifetime to take effect
+
+Interpretation A:
+  Pain is so deep that even a lifetime is not enough for it to be felt by the beloved — the tragedy of unrequited love stretched across time
+
+Interpretation B:
+  A philosophical observation — all meaningful things take a lifetime to bear fruit, and even then there is no guarantee
+
+Your ratings:
+  A — Appropriateness (1-5): ___  Depth (1-5): ___
+  B — Appropriateness (1-5): ___  Depth (1-5): ___
+  Overall preference: A / B / Equal
+  Comments: ________________________________
+----------------------------------------------------------------------
+
+VERSE 4 of 20
+ID: UR004 | Language: urdu | Author: Mirza Ghalib
+Original: عشق نے غالب نکما کر دیا
+Romanized: Ishq ne Ghalib nikamma kar diya
+Translation: Love has rendered Ghalib useless
+
+Interpretation A:
+  Love destroys productivity and purpose — the lover becomes incapable of worldly function, consumed entirely by longing
+
+Interpretation B:
+  A critique of romantic idealism — love promises transcendence but delivers paralysis
+
+Your ratings:
+  A — Appropriateness (1-5): ___  Depth (1-5): ___
+  B — Appropriateness (1-5): ___  Depth (1-5): ___
+  Overall preference: A / B / Equal
+  Comments: ________________________________
+----------------------------------------------------------------------
+
+VERSE 5 of 20
+ID: HI001 | Language: hindi | Author: Mahadevi Varma
+Original: मैं नीर भरी दुख की बदली
+Romanized: Main neer bhari dukh ki badli
+Translation: I am a cloud filled with the water of sorrow
+
+Interpretation A:
+  The poet identifies herself as a rain cloud — heavy with grief, destined to pour and then disappear
+
+Interpretation B:
+  The poet identifies herself as a rain cloud — heavy with grief, destined to pour and then disappear
+
+Your ratings:
+  A — Appropriateness (1-5): ___  Depth (1-5): ___
+  B — Appropriateness (1-5): ___  Depth (1-5): ___
+  Overall preference: A / B / Equal
+  Comments: ________________________________
+----------------------------------------------------------------------
+
+VERSE 6 of 20
+ID: HI002 | Language: hindi | Author: Harivansh Rai Bachchan
+Original: जो बीत गई सो बात गई
+Romanized: Jo beet gayi so baat gayi
+Translation: What has passed is past
+
+Interpretation A:
+  Stoic acceptance — the past cannot be changed, dwelling on it is futile, only the present moment matters
+
+Interpretation B:
+  Stoic acceptance — the past cannot be changed, dwelling on it is futile, only the present moment matters
+
+Your ratings:
+  A — Appropriateness (1-5): ___  Depth (1-5): ___
+  B — Appropriateness (1-5): ___  Depth (1-5): ___
+  Overall preference: A / B / Equal
+  Comments: ________________________________
+----------------------------------------------------------------------
+
+VERSE 7 of 20
+ID: HI003 | Language: hindi | Author: Makhanlal Chaturvedi
+Original: मुझे तोड़ लेना वनमाली, उस पथ पर देना तुम फेंक
+Romanized: Mujhe tod lena vanmali, us path par dena tum phek
+Translation: Pluck me, O gardener, and throw me on that path
+
+Interpretation A:
+  Devotional surrender — the poet asks to be used by God as an offering, destruction in service of the divine is the highest fate
+
+Interpretation B:
+  Devotional surrender — the poet asks to be used by God as an offering, destruction in service of the divine is the highest fate
+
+Your ratings:
+  A — Appropriateness (1-5): ___  Depth (1-5): ___
+  B — Appropriateness (1-5): ___  Depth (1-5): ___
+  Overall preference: A / B / Equal
+  Comments: ________________________________
+----------------------------------------------------------------------
+
+VERSE 8 of 20
+ID: HI004 | Language: hindi | Author: Ramdhari Singh Dinkar
+Original: सच है, विपत्ति जब आती है, कायर को ही दहलाती है
+Romanized: Sach hai, vipatti jab aati hai, kayar ko hi dahlaati hai
+Translation: True, when adversity comes, it frightens only the coward
+
+Interpretation A:
+  Heroic philosophy — courage is defined not by the absence of fear but by the refusal to be stopped by it
+
+Interpretation B:
+  Ironic reading — who defines cowardice, those who survive adversity retroactively call the fallen cowards, survival bias masking as wisdom
+
+Your ratings:
+  A — Appropriateness (1-5): ___  Depth (1-5): ___
+  B — Appropriateness (1-5): ___  Depth (1-5): ___
+  Overall preference: A / B / Equal
+  Comments: ________________________________
+----------------------------------------------------------------------
+
+VERSE 9 of 20
+ID: EN001 | Language: english | Author: John Donne
+Original: No man is an island, entire of itself
+Romanized: No man is an island, entire of itself
+Translation: No man is an island, entire of itself
+
+Interpretation A:
+  Human beings are fundamentally interconnected — isolation is an illusion and every person's existence affects others
+
+Interpretation B:
+  The self is not self-sufficient — we are constituted by our relationships and without them we are incomplete
+
+Your ratings:
+  A — Appropriateness (1-5): ___  Depth (1-5): ___
+  B — Appropriateness (1-5): ___  Depth (1-5): ___
+  Overall preference: A / B / Equal
+  Comments: ________________________________
+----------------------------------------------------------------------
+
+VERSE 10 of 20
+ID: EN002 | Language: english | Author: Emily Dickinson
+Original: Because I could not stop for Death, He kindly stopped for me
+Romanized: Because I could not stop for Death, He kindly stopped for me
+Translation: Because I could not stop for Death, He kindly stopped for me
+
+Interpretation A:
+  Death is personified as a gentleman — the poem subverts fear of death by making it feel like a polite social encounter
+
+Interpretation B:
+  Ironic reading — death is not kind at all, the word kindly drips with dark irony, the carriage is a hearse
+
+Your ratings:
+  A — Appropriateness (1-5): ___  Depth (1-5): ___
+  B — Appropriateness (1-5): ___  Depth (1-5): ___
+  Overall preference: A / B / Equal
+  Comments: ________________________________
+----------------------------------------------------------------------
+
+VERSE 11 of 20
+ID: EN003 | Language: english | Author: William Shakespeare
+Original: To be or not to be, that is the question
+Romanized: To be or not to be, that is the question
+Translation: To be or not to be, that is the question
+
+Interpretation A:
+  The question of suicide — Hamlet weighs the unbearable weight of consciousness against the unknown of death, a genuine existential crisis
+
+Interpretation B:
+  The question of action vs inaction — to be is to act, to engage, to resist; not to be is to withdraw, to let things happen, to be passive
+
+Your ratings:
+  A — Appropriateness (1-5): ___  Depth (1-5): ___
+  B — Appropriateness (1-5): ___  Depth (1-5): ___
+  Overall preference: A / B / Equal
+  Comments: ________________________________
+----------------------------------------------------------------------
+
+VERSE 12 of 20
+ID: EN004 | Language: english | Author: William Shakespeare
+Original: All that glitters is not gold
+Romanized: All that glitters is not gold
+Translation: All that glitters is not gold
+
+Interpretation A:
+  A warning against superficiality — appearances deceive, value lies beneath surface beauty and cannot be assessed by shine alone
+
+Interpretation B:
+  Epistemological caution — our senses mislead us, what attracts is not always what nourishes, desire is a poor guide to truth
+
+Your ratings:
+  A — Appropriateness (1-5): ___  Depth (1-5): ___
+  B — Appropriateness (1-5): ___  Depth (1-5): ___
+  Overall preference: A / B / Equal
+  Comments: ________________________________
+----------------------------------------------------------------------
+
+VERSE 13 of 20
+ID: SA001 | Language: sanskrit | Author: Traditional
+Original: काव्यशास्त्रविनोदेन कालो गच्छति धीमताम्
+Romanized: Kavyashastravinodena kalo gacchati dhimatam
+Translation: For the wise, time passes in the delight of poetry and learning
+
+Interpretation A:
+  Poetry and scholarship are the highest pleasures — time spent in them is time well spent
+
+Interpretation B:
+  A subtle critique — only the wise use time this way, implying most people waste it on lesser things
+
+Your ratings:
+  A — Appropriateness (1-5): ___  Depth (1-5): ___
+  B — Appropriateness (1-5): ___  Depth (1-5): ___
+  Overall preference: A / B / Equal
+  Comments: ________________________________
+----------------------------------------------------------------------
+
+VERSE 14 of 20
+ID: SA002 | Language: sanskrit | Author: Traditional
+Original: अहं ब्रह्मास्मि
+Romanized: Aham Brahmasmi
+Translation: I am Brahman
+
+Interpretation A:
+  The highest Vedantic claim — the individual self and the universal consciousness are identical, not metaphorically but actually
+
+Interpretation B:
+  A dangerous statement — in orthodox readings this is blasphemy, the finite claiming to be the infinite, the part claiming to be the whole
+
+Your ratings:
+  A — Appropriateness (1-5): ___  Depth (1-5): ___
+  B — Appropriateness (1-5): ___  Depth (1-5): ___
+  Overall preference: A / B / Equal
+  Comments: ________________________________
+----------------------------------------------------------------------
+
+VERSE 15 of 20
+ID: SA003 | Language: sanskrit | Author: Traditional
+Original: तत् त्वम् असि
+Romanized: Tat tvam asi
+Translation: That thou art
+
+Interpretation A:
+  Identity of the individual with the universal — the that which is Brahman and the thou which is Atman are one, separation is the fundamental illusion
+
+Interpretation B:
+  Identity of the individual with the universal — the that which is Brahman and the thou which is Atman are one, separation is the fundamental illusion
+
+Your ratings:
+  A — Appropriateness (1-5): ___  Depth (1-5): ___
+  B — Appropriateness (1-5): ___  Depth (1-5): ___
+  Overall preference: A / B / Equal
+  Comments: ________________________________
+----------------------------------------------------------------------
+
+VERSE 16 of 20
+ID: SA004 | Language: sanskrit | Author: Traditional
+Original: सर्वे भवन्तु सुखिनः सर्वे सन्तु निरामयाः
+Romanized: Sarve bhavantu sukhinah sarve santu niramayah
+Translation: May all beings be happy, may all beings be free from illness
+
+Interpretation A:
+  Universal compassion without boundary — the prayer extends to all beings without exception, a radical expansion of the circle of moral concern
+
+Interpretation B:
+  Universal compassion without boundary — the prayer extends to all beings without exception, a radical expansion of the circle of moral concern
+
+Your ratings:
+  A — Appropriateness (1-5): ___  Depth (1-5): ___
+  B — Appropriateness (1-5): ___  Depth (1-5): ___
+  Overall preference: A / B / Equal
+  Comments: ________________________________
+----------------------------------------------------------------------
+
+VERSE 17 of 20
+ID: TA001 | Language: tamil | Author: Kaniyan Pungundranar
+Original: யாதும் ஊரே யாவரும் கேளிர்
+Romanized: Yadhum oore yaavarum kelir
+Translation: Every place is my hometown, every person is my kin
+
+Interpretation A:
+  A radical statement of universal belonging — the poet refuses all boundaries of nation, caste, and community
+
+Interpretation B:
+  Born of exile or displacement — when you have lost your home, everywhere becomes home and everyone becomes family
+
+Your ratings:
+  A — Appropriateness (1-5): ___  Depth (1-5): ___
+  B — Appropriateness (1-5): ___  Depth (1-5): ___
+  Overall preference: A / B / Equal
+  Comments: ________________________________
+----------------------------------------------------------------------
+
+VERSE 18 of 20
+ID: TA002 | Language: tamil | Author: Tirumular
+Original: அன்பே சிவம்
+Romanized: Anbe Sivam
+Translation: Love is Shiva / Love is God
+
+Interpretation A:
+  The equation of love with divinity — God is not found in temples but in the act of loving, love is the only authentic religious experience
+
+Interpretation B:
+  The democratization of the sacred — if love is God then every loving person is a devotee, no priest or ritual is necessary
+
+Your ratings:
+  A — Appropriateness (1-5): ___  Depth (1-5): ___
+  B — Appropriateness (1-5): ___  Depth (1-5): ___
+  Overall preference: A / B / Equal
+  Comments: ________________________________
+----------------------------------------------------------------------
+
+VERSE 19 of 20
+ID: TA003 | Language: tamil | Author: Thiruvalluvar
+Original: கற்றதனால் ஆய பயனென்கொல் வாலறிவன்
+Romanized: Katradhanal aaya payanen kol valarivaan
+Translation: What is the use of learning if one has not learned about the pure-knowing God
+
+Interpretation A:
+  The telos of all learning — secular knowledge without spiritual orientation is ultimately purposeless, the highest knowledge is the knowledge of the divine
+
+Interpretation B:
+  The priority of inner over outer knowledge — external facts without inner transformation leave the human being unchanged and the learning is lost
+
+Your ratings:
+  A — Appropriateness (1-5): ___  Depth (1-5): ___
+  B — Appropriateness (1-5): ___  Depth (1-5): ___
+  Overall preference: A / B / Equal
+  Comments: ________________________________
+----------------------------------------------------------------------
+
+VERSE 20 of 20
+ID: TA004 | Language: tamil | Author: Thiruvalluvar
+Original: அகர முதல எழுத்தெல்லாம் ஆதி பகவன் முதற்றே உலகு
+Romanized: Agara mudala ezhuthellam aadi bhagavan mudatre ulagu
+Translation: As A is the beginning of all letters, so is God the beginning of the world
+
+Interpretation A:
+  Linguistic theology — the structure of language mirrors the structure of existence, the alphabet is a sacred map of how reality is organized
+
+Interpretation B:
+  Linguistic theology — the structure of language mirrors the structure of existence, the alphabet is a sacred map of how reality is organized
+
+Your ratings:
+  A — Appropriateness (1-5): ___  Depth (1-5): ___
+  B — Appropriateness (1-5): ___  Depth (1-5): ___
+  Overall preference: A / B / Equal
+  Comments: ________________________________
+----------------------------------------------------------------------

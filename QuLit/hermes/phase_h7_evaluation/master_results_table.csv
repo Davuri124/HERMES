@@ -1,0 +1,13 @@
+Evaluation,Hermes,Baseline,Metric,Phase
+E1: Observer Consistency,0.3616,0.3333 (random),Direction accuracy (↑),H1+H2
+E1: Meaning Consistency,1.0000,~0.50 (random),Same-observer cosine sim (↑),H2
+E2: Human Alignment,3.553/5,2.949/5 (no-observer),Simulated human rating 1-5 (↑),H5
+E3: Ambiguity Pearson r,0.3932,0.0 (random),"Pearson(OSI, ambiguity) (↑)",H4
+E3: Ambiguity Spearman ρ,0.3680,0.0 (random),"Spearman(OSI, ambiguity) (↑)",H4
+E3: Group separation p,0.0000,>0.05 (not significant),Mann-Whitney p-value (↓),H3+H4
+E4: Retrieval Hit@5,0.1667,0.4000 (mBERT),Cross-lingual retrieval (↑),H6
+E5: Generation BLEU-4,0.2468,N/A (vanilla T5),n-gram precision (↑),H5
+E5: Generation ROUGE-L,0.3125,N/A,LCS recall (↑),H5
+E5: BERTScore F1,0.8869,N/A,Semantic similarity (↑),H5
+E5: Observer Consistency,0.7378,0.0 (no observer),OCS — reader shifts output (↑),H5
+E6: Alignment Pearson r,0.7899,~0.0 (random),Corr with alignment labels (↑),H6

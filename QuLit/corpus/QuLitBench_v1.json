@@ -1,0 +1,149 @@
+[
+  {
+    "id": "UR001",
+    "language": "urdu",
+    "script": "دل کے آئینے میں ہے تصویرِ یار",
+    "romanized": "Dil ke aaine mein hai tasveer-e-yaar",
+    "translation": "In the mirror of the heart lies the beloved's image",
+    "interpretations": [
+      "The lover sees only the beloved whenever they look inward — a statement of total devotion",
+      "The heart itself has become a reflective surface — love has transformed the self into pure receptivity",
+      "The image is trapped inside — the beloved is gone but their presence is permanently etched in memory"
+    ],
+    "ambiguity_type": [
+      "metaphorical",
+      "emotional"
+    ],
+    "source": "Rekhta.org",
+    "author": "Mir Taqi Mir"
+  },
+  {
+    "id": "UR002",
+    "language": "urdu",
+    "script": "ہزاروں خواہشیں ایسی کہ ہر خواہش پہ دم نکلے",
+    "romanized": "Hazaron khwahishen aisi ke har khwahish pe dam nikle",
+    "translation": "Thousands of desires, such that each desire takes a breath away",
+    "interpretations": [
+      "The sheer volume of unfulfilled longing is itself a form of slow death — desire as consumption",
+      "Each desire is so intense it feels life-threatening — hyperbole expressing the overwhelming nature of want",
+      "The speaker is overwhelmed not by one love but by the multiplicity of desires pulling in all directions simultaneously"
+    ],
+    "ambiguity_type": [
+      "metaphorical",
+      "emotional",
+      "cultural"
+    ],
+    "source": "Rekhta.org",
+    "author": "Mirza Ghalib"
+  },
+  {
+    "id": "EN001",
+    "language": "english",
+    "script": "No man is an island, entire of itself",
+    "romanized": "No man is an island, entire of itself",
+    "translation": "No man is an island, entire of itself",
+    "interpretations": [
+      "Human beings are fundamentally interconnected — isolation is an illusion and every person's existence affects others",
+      "The self is not self-sufficient — we are constituted by our relationships and without them we are incomplete",
+      "A political statement — individual sovereignty is a myth, community and collective responsibility are the truth of human existence"
+    ],
+    "ambiguity_type": [
+      "metaphorical",
+      "cultural"
+    ],
+    "source": "Devotions upon Emergent Occasions",
+    "author": "John Donne"
+  },
+  {
+    "id": "EN002",
+    "language": "english",
+    "script": "Because I could not stop for Death, He kindly stopped for me",
+    "romanized": "Because I could not stop for Death, He kindly stopped for me",
+    "translation": "Because I could not stop for Death, He kindly stopped for me",
+    "interpretations": [
+      "Death is personified as a gentleman — the poem subverts fear of death by making it feel like a polite social encounter",
+      "The speaker was too busy living to think about death — death came anyway, indifferent to human plans",
+      "Ironic reading — death is not kind at all, the word kindly drips with dark irony, the carriage is a hearse"
+    ],
+    "ambiguity_type": [
+      "metaphorical",
+      "emotional"
+    ],
+    "source": "Poems by Emily Dickinson",
+    "author": "Emily Dickinson"
+  },
+  {
+    "id": "HI001",
+    "language": "hindi",
+    "script": "मैं नीर भरी दुख की बदली",
+    "romanized": "Main neer bhari dukh ki badli",
+    "translation": "I am a cloud filled with the water of sorrow",
+    "interpretations": [
+      "The poet identifies herself as a rain cloud — heavy with grief, destined to pour and then disappear",
+      "Sorrow is not a burden but a fullness — the cloud is not broken, it is complete, ready to give",
+      "A feminist reading — the woman is always expected to hold grief silently and release it for others while herself dissolving"
+    ],
+    "ambiguity_type": [
+      "metaphorical",
+      "emotional",
+      "cultural"
+    ],
+    "source": "Yama",
+    "author": "Mahadevi Varma"
+  },
+  {
+    "id": "SA001",
+    "language": "sanskrit",
+    "script": "काव्यशास्त्रविनोदेन कालो गच्छति धीमताम्",
+    "romanized": "Kavyashastravinodena kalo gacchati dhimatam",
+    "translation": "For the wise, time passes in the delight of poetry and learning",
+    "interpretations": [
+      "Poetry and scholarship are the highest pleasures — time spent in them is time well spent",
+      "The wise do not feel time passing because they are absorbed in something larger than themselves",
+      "A subtle critique — only the wise use time this way, implying most people waste it on lesser things"
+    ],
+    "ambiguity_type": [
+      "cultural",
+      "metaphorical"
+    ],
+    "source": "Subhashita Ratna Bhandagara",
+    "author": "Traditional"
+  },
+  {
+    "id": "TA001",
+    "language": "tamil",
+    "script": "யாதும் ஊரே யாவரும் கேளிர்",
+    "romanized": "Yadhum oore yaavarum kelir",
+    "translation": "Every place is my hometown, every person is my kin",
+    "interpretations": [
+      "A radical statement of universal belonging — the poet refuses all boundaries of nation, caste, and community",
+      "Born of exile or displacement — when you have lost your home, everywhere becomes home and everyone becomes family",
+      "A philosophical stance — attachment to place and people is the root of suffering, releasing it brings universal love"
+    ],
+    "ambiguity_type": [
+      "cultural",
+      "emotional",
+      "metaphorical"
+    ],
+    "source": "Purananuru",
+    "author": "Kaniyan Pungundranar"
+  },
+  {
+    "id": "AR001",
+    "language": "arabic",
+    "script": "وَمَا نَيْلُ الْمَطَالِبِ بِالتَّمَنِّي",
+    "romanized": "Wa ma naylul matalib bit-tamanni",
+    "translation": "Desires are not achieved through mere wishing",
+    "interpretations": [
+      "A call to action — wishing is passive, achievement requires struggle and sacrifice",
+      "A meditation on fate — some things cannot be obtained no matter how hard you try, wishing reveals this gap",
+      "A critique of passive spirituality — even in devotion, action is required, not just prayer"
+    ],
+    "ambiguity_type": [
+      "cultural",
+      "metaphorical"
+    ],
+    "source": "Diwan",
+    "author": "Al-Mutanabbi"
+  }
+]
